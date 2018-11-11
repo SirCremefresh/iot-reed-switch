@@ -1,0 +1,12 @@
+{
+    "name": "iot-reed-switch",
+    "keywords": "",
+    "description": "A liberary to get Reed values",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SirCremefresh/iot-reed-switch.git"
+    },
+    "version": "1.0",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
